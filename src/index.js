@@ -9,6 +9,16 @@ root.render(
   <React.StrictMode>
     <h1>Weather App</h1>
     <Weather />
+    <p>
+      😎 This project was coded by Tetiana Nepochatova, and it is -
+      <a
+        href="https://github.com/Tetiana-Nepochatova/weather-react"
+        target="_blank"
+        rel="noreferrer"
+      >
+        open-sourced
+      </a>
+    </p>
   </React.StrictMode>
 );
 
